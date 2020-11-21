@@ -1,2 +1,2 @@
-# C25-angry-Birds
-use the mouse to hit the blocks and enemies
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
